@@ -4,10 +4,10 @@
     <title>Design Portfolio</title>
     <description>Freelance web designer and developer, specializing in Jekyll, HTML, CSS, and JavaScript.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 16 Dec 2015 02:45:03 +0200</pubDate>
-    <lastBuildDate>Wed, 16 Dec 2015 02:45:03 +0200</lastBuildDate>
+    <link>http://example.com/</link>
+    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 16 Dec 2015 03:12:17 +0200</pubDate>
+    <lastBuildDate>Wed, 16 Dec 2015 03:12:17 +0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 15 Dec 2015 22:34:23 +0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/welcome-to-jekyll</guid>
+        <link>http://example.com/jekyll/update/welcome-to-jekyll</link>
+        <guid isPermaLink="true">http://example.com/jekyll/update/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
