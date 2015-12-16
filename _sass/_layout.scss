@@ -1,4 +1,4 @@
-
+//Header
 .site-nav {
     text-align: center;
 
@@ -15,10 +15,41 @@
 }
 .site-title a {
     color: #000;
+    &:hover {
+        text-decoration: none;
+    }
 }
 .site-header {
     padding: 2em 0 0;
     border-bottom: 1px solid #ccc;
-    background: url('/images/header-bg.png')
+    background: url('/images/header-bg.png');
+    background-size: 400px 400px;
+}
+
+//Footer
+
+.site-footer {
+    padding: 2em 0;
+    color: #fff;
+    background:$grey-color-dark;
+}
+
+.footer-content {
+    float: left;
+    width: 40%;
+    font-size: 0.875em;
+
+    h3 {
+        text-align: left;
+
+    }
+}
+.footer-social {
+    float: right;
+
+    li{
+    display: inline-block; 
+    margin: 0 0.5em;
+    }
 
 }
