@@ -1,4 +1,35 @@
+<nav class="site-nav">
+    <ul>
+    {% for link in site.links %}
+        <li>
+        <a href="{{ link.url }}">{{ link.title }}</a>
+        </li>
+    {% endfor %}
+    </ul>
+</nav>
 <header class="site-header">
+  
+
+
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% comment %}<header class="site-header">
 
   <div class="wrapper">
 
@@ -22,6 +53,5 @@
       </div>
     </nav>
 
-  </div>
+  </div>{% endcomment %}
 
-</header>
