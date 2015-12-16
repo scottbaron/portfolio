@@ -169,6 +169,14 @@ pre {
     margin: 0 0.5em;
     font-size: 1.5em; }
 
+.site-title a {
+  color: #000; }
+
+.site-header {
+  padding: 2em 0 0;
+  border-bottom: 1px solid #ccc;
+  background: url("/images/header-bg.png"); }
+
 /**
  * Syntax highlighting styles
  */
