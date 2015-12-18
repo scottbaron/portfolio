@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Fourth-Post"
+title:  "Project 2"
 date:   2015-12-11 22:34:23 +0200
-categories: jekyll update
+categories: project 
 tags: code
+featured: true
+featured_image: "/images/project.png"
 ---
 # Fine Thisbes in mihi nova terrena sororis
 

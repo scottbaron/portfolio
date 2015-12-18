@@ -2,7 +2,7 @@
 layout: post
 title:  "First-Post"
 date:   2015-12-14 22:34:23 +0200
-categories: jekyll update
+categories: blog 
 tags: snippet
 ---
 

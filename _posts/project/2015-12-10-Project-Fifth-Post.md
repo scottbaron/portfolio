@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Fifth-Post"
+title:  "Project 1"
 date:   2015-12-10 22:34:23 +0200
-categories: jekyll update
+categories: project 
 tags: code inspiration
+featured: true
+featured_image: "/images/project.png"
 ---
 # Exercuit an intravit ficta multifori Amythaone reliquit
 

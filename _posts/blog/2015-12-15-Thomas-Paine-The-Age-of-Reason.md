@@ -2,9 +2,8 @@
 layout: post
 title:  "Thomas Paine The Age of Reason"
 date:   2015-12-15 22:34:23 +0200
-categories: jekyll update
+categories: blog 
 featured: true
-tags: design  
 ---
 
 Thomas Paine - The Age of Reason Being an Investigation of True and Fabulous Theology 1794

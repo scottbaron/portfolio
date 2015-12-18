@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Second-Post"
+title:  "Project 3"
 date:   2015-12-13 22:34:23 +0200
-categories: jekyll update
+categories: project 
 tags: inspiration
+featured: true
+featured_image: "/images/project.png"
 ---
 
 # Revelli per cristata

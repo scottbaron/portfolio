@@ -359,7 +359,7 @@ pre {
   list-style: none; }
 
 .post {
-  float: right;
+  float: left;
   width: 50%;
   padding: 0 3em 1em; }
   .post:nth-child(odd) {
@@ -402,7 +402,7 @@ pre {
   list-style: none; }
 
 .project {
-  float: right;
+  float: left;
   width: 33.33%;
   padding: 0 1em;
   text-align: center; }
